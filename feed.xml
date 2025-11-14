@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias UD02 - Ibaipenalv</title>
+    <link>https://ibaipenalv.github.io/ejercicioLMSGI02.1/</link>
+    <description>Novedades publicadas en la UD02</description>
+    <language>es</language>
+
+    <item>
+      <title>Nueva entrada añadida a la página Destinos</title>
+      <link>https://ibaipenalv.github.io/ejercicioLMSGI02.1/destinos.html</link>
+      <description>Actualización en la sección Destinos.</description>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Actualización en la galería de fotos</title>
+      <link>https://ibaipenalv.github.io/ejercicioLMSGI02.1/galeria_fotos.html</link>
+      <description>Se ha añadido nuevo contenido a la galería.</description>
+      <pubDate>Fri, 14 Nov 2025 12:10:00 +0200</pubDate>
+    </item>
+
+  </channel>
+</rss>
